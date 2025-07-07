@@ -1,3 +1,7 @@
 .colo1{
   background-color: aqua !important;
 }
+
+body{
+  overflow-x: hidden;
+}
